@@ -13,3 +13,5 @@ Passcode: 2ycEwZ
 
 ### Other links
 - Schoole website: https://member.mnchinese.org/
+- Teacher sign-in: https://www.cognitoforms.com/MICS3/TeacherSignin
+
