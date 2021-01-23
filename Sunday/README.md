@@ -3,7 +3,7 @@
 ## Sunday Class 
 ---
 
-### On Saturday, please join class using following link
+### On Sunday, please join class using following link
 
 Join Zoom Meeting
 https://zoom.us/j/95974471422?pwd=cFh3eERKSXRlSEluR2o5ZjBnZ3VaZz09
