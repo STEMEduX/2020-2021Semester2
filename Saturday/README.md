@@ -15,4 +15,9 @@ Passcode: 2ycEwZ
 ![image](https://user-images.githubusercontent.com/24532787/92997150-b8461200-f4d6-11ea-84cf-ab2c029c06cf.png)
 -->
 
-https://docs.google.com/presentation/d/1oPIuLUKQjY9nS7lAQ7ZzMB5WnDkajhDk69wmOgy8fgw/edit#slide=id.g5ac9a72881_0_8
+---
+## 1/23/2021 9:15 Class One
+* AI & drawing https://docs.google.com/presentation/d/1oPIuLUKQjY9nS7lAQ7ZzMB5WnDkajhDk69wmOgy8fgw/edit#slide=id.g5ac9a72881_0_8
+
+
+
