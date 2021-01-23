@@ -18,6 +18,7 @@ Passcode: 2ycEwZ
 ---
 ## 1/23/2021 9:15 Class One
 * AI & drawing https://docs.google.com/presentation/d/1oPIuLUKQjY9nS7lAQ7ZzMB5WnDkajhDk69wmOgy8fgw/edit#slide=id.g5ac9a72881_0_8
+* What is Tensorflow: https://en.wikipedia.org/wiki/TensorFlow
 * Basic classification: Classify images of clothing.  https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb
 
 
