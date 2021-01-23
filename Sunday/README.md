@@ -14,4 +14,15 @@ Passcode: 2ycEwZ
 ### Other links
 - Schoole website: https://member.mnchinese.org/
 - Teacher sign-in: https://www.cognitoforms.com/MICS3/TeacherSignin
+- Teachable machine: https://teachablemachine.withgoogle.com/train
+
+### Class 1 - 1/24/2021
+
+Objective - to learn how to add hand guestures to our voice-control app.
+
+- Review the voice keyword extractor app in glitch. 
+- Basic on machine learning workflow and image recorgnition
+- Use Teachable machines to learn hand guestures
+
+
 
