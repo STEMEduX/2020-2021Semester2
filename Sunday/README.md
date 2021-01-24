@@ -18,6 +18,10 @@ Passcode: 2ycEwZ
 
 ### Class 1 - 1/24/2021
 
+Sharing
+- Algorithm bias: https://www.youtube.com/watch?v=bWOUw8omUVg
+- Value of data: https://www.youtube.com/watch?v=W8kA-EZReA0
+
 Objective - to learn how to add hand guestures to our voice-control app.
 
 - Review the voice keyword extractor app in glitch. 
