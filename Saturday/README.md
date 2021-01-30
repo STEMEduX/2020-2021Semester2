@@ -18,7 +18,7 @@ Passcode: 2ycEwZ
 ---
 ## 1/30/2021 9:15 Class Two
 * Sentiment Analysis & Natural Language Processing
-* Sentiment Analysis & NLP Unit 1 Lesson 1
+* Sentiment Analysis & NLP Unit 1 Lesson 1-5
 * Activity slides: 
     - [A game where you try to find words that are connected to each other](https://research.google.com/semantris/)  
     - [Ask questions; the program find books with sentences that make sense answerd.](https://experiments.withgoogle.com/talk-to-books)  
