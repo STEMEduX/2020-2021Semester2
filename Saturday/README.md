@@ -26,6 +26,12 @@ Passcode: 2ycEwZ
     - [Listens to what you say and writes down what it hears](https://www.google.com/intl/en/chrome/demos/speech.html)  
     - [Type something in one language, read what it means in a different language](https://translate.google.com/)  
     - [Summarize text ](https://resoomer.com/en/)  
+* Class slides: 
+    - [1.1 Explore NLP](./AI4All/1.1%20Explore%20NLP.pdf)
+    - [1.2 Definitions and Explanations](./AI4All/1.2%20Definitions%20and%20Explanations.pdf)
+    - [1.3 Impact of NLP](./AI4All/1.3%20Impact%20of%20NLP.pdf)
+    - [1.4 Imagine What You Can Do](./AI4All/1.4%20Imagine%20What%20You%20Can%20Do.pdf)
+    - [1.5 How Humans Learn Words](./AI4All/1.5%20How%20Humans%20Learn%20Words.pdf)
 * Python Installation
 * VsCode setup with Python, debugging python code
     - [hello.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210130/hello.py)
