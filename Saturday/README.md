@@ -26,7 +26,9 @@ Passcode: 2ycEwZ
     - [Listens to what you say and writes down what it hears](https://www.google.com/intl/en/chrome/demos/speech.html)  
     - [Type something in one language, read what it means in a different language](https://translate.google.com/)  
     - [Summarize text ](https://resoomer.com/en/)  
-
+* Python Installation
+* VsCode setup with Python, debugging python code
+    - [hello.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210130/hello.py)
 
 ---
 ## 1/23/2021 9:15 Class One
