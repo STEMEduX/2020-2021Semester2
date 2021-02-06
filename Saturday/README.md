@@ -20,6 +20,7 @@ Passcode: 2ycEwZ
 * Sentiment Analysis & Natural Language Processing
 * Sentiment Analysis & NLP Unit 1 Lesson 6-8
 * Sentiment Analysis & NLP Unit 2
+* [1_variables.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210206/1_variables.py)
 
 ---
 ## 1/30/2021 9:15 Class Two
