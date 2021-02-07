@@ -16,6 +16,11 @@ Passcode: 2ycEwZ
 - Teacher sign-in: https://www.cognitoforms.com/MICS3/TeacherSignin
 - Teachable machine: https://teachablemachine.withgoogle.com/train
 
+### Class 3 2/7/2021
+Sharing
+- Computer vision: https://www.youtube.com/watch?v=2hXG8v8p0KM
+
+
 ### Class 1 - 1/24/2021
 
 Sharing
