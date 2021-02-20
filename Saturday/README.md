@@ -19,6 +19,8 @@ Passcode: 2ycEwZ
 ## 2/20/2021 9:15 Class Four
 * Sentiment Analysis & Natural Language Processing
 * Sentiment Analysis & NLP Unit 2 Continue
+* Homework: 
+    - https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/AI4All/2.1%20Humans%20Classify%20Reviews.pdf
 ---
 ## 2/6/2021 9:15 Class Three
 * Sentiment Analysis & Natural Language Processing
