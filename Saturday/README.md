@@ -18,7 +18,7 @@ Passcode: 2ycEwZ
 ---
 ## 2/20/2021 9:15 Class Four
 * Sentiment Analysis & Natural Language Processing
-* Sentiment Analysis & NLP Unit 3
+* Sentiment Analysis & NLP Unit 2 Continue
 ---
 ## 2/6/2021 9:15 Class Three
 * Sentiment Analysis & Natural Language Processing
