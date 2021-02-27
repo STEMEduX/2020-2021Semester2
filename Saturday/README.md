@@ -16,6 +16,10 @@ Passcode: 2ycEwZ
 -->
 
 ---
+## 2/27/2021 9:15 Class Five
+* Python
+    - [4_strings.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210220/4_strings.py)
+---
 ## 2/20/2021 9:15 Class Four
 * Sentiment Analysis & Natural Language Processing
 * Sentiment Analysis & NLP Unit 2 Continue
