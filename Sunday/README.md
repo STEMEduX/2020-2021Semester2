@@ -16,6 +16,14 @@ Passcode: 2ycEwZ
 - Teacher sign-in: https://www.cognitoforms.com/MICS3/TeacherSignin
 - Teachable machine: https://teachablemachine.withgoogle.com/train
 
+### Class 5 2/28/2021
+Sharing
+- From Artificial Intelligence to Superintelligence: Nick Bostrom on AI & The Future of Humanity https://www.youtube.com/watch?v=Kktn6BPg1sI
+
+Topics
+- JavascriptModularization
+- Classes
+
 ### Class 3 2/7/2021
 Sharing
 - Computer vision: https://www.youtube.com/watch?v=2hXG8v8p0KM
