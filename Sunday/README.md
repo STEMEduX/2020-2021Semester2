@@ -22,7 +22,8 @@ Sharing
 
 Topics
 - JavascriptModularization
-- Classes
+- Classes https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+- Object-oriented programming - https://www.youtube.com/watch?v=vDJpGenyHaA
 
 ### Class 3 2/7/2021
 Sharing
