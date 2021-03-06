@@ -19,7 +19,8 @@ Passcode: 2ycEwZ
 ## 3/6/2021 9:15 Class Six
 * Sentiment Analysis & NLP Unit 2 Continue
 * Python
-  
+    - [1_bool.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210227/1_bool.py)
+    - [2_operators.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210227/2_operators.py)
 
 ---
 ## 2/27/2021 9:15 Class Five
