@@ -147,6 +147,7 @@ n = ~x
 print(n)
 
 # google "how negaitve integer store in computer"
+# https://www.geeksforgeeks.org/how-the-negative-numbers-are-stored-in-memory/
 # # << Zero fill left shift Shift left by pushing zeros in from the right and let the leftmost bits fall off
 # left shift
 x << 1
