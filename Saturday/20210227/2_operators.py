@@ -148,18 +148,49 @@ print(n)
 
 # google "how negaitve integer store in computer"
 # https://www.geeksforgeeks.org/how-the-negative-numbers-are-stored-in-memory/
-# # << Zero fill left shift Shift left by pushing zeros in from the right and let the leftmost bits fall off
+# Let us take an example:
+# Example –
+# int a = -2056;
+# Binary of 2056 will be calculated which is:
+#  2048 = 2^11 = 1024
+# 00000000000000000000100000001000 (32 bit representation, according of storage of int in C)
+# 2’s complement of the above binary is:
+# 11111111111111111111011111111000.
+
+# So finally the above binary will be stored at memory allocated for variable a.
+# When it comes on accessing the value of variable a, the above binary will be retrieved from the memory location, then its sign bit that is the left most bit will be checked as it is 1 so the binary number is of a negative number so it will be 2’s complemented and when it will be 2’s complemented will be get the binary of 2056 which is:
+# 00000000000000000000100000001000
+# The above binary number will be converted to its decimal equivalent which is 2056 and as the sign bit was 1 so the decimal number which is being gained from the binary number will be represented with a minus sign. In our case -2056.
+# Attention reader! Don’t stop learning now. Get hold of all the important CS Theory concepts for SDE interviews with the CS Theory Course at a student-friendly price and become industry ready.
+
+
+# # # << Zero fill left shift Shift left by pushing zeros in from the right and let the leftmost bits fall off
 # left shift
 x << 1
-#0011
-#0110
+#0011 = 3
+#0110 = 6
+a = a * 2
+a = a << 1 # faster
+
 # >> Signed right shift Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
 # right shift
 x >> 1
-# 0011 -> 0001
+# 0011 -> 0001, 3 -> 1. 3//2 take integer
 
-# &= x &= 3 x = x & 3
-# |= x |= 3 x = x | 3
-# ^= x ^= 3 x = x ^ 3
-# >>= x >>= 3 x = x >> 3
-# <<= x <<= 3 x = x << 3
+# &= 
+x &= 3 
+x = x & 3
+a = a + 1
+a += 1
+# |= 
+x |= 3 
+x = x | 3
+# ^= 
+x ^= 3 
+x = x ^ 3
+# >>= 
+x >>= 3 
+x = x >> 3
+# <<= 
+x <<= 3 
+x = x << 3
