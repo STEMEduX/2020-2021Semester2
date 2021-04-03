@@ -16,7 +16,7 @@ Passcode: 2ycEwZ
 -->
 ---
 ## 4/3/2021 9:15 Class Seven
-* Sentiment Analysis & NLP Unit 3 Continue
+* Sentiment Analysis & NLP Unit 3 Lesson 1 - 6
 * Python
 
 ---
