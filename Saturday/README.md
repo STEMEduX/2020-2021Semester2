@@ -18,6 +18,8 @@ Passcode: 2ycEwZ
 ## 4/3/2021 9:15 Class Seven
 * Sentiment Analysis & NLP Unit 3 Lesson 1 - 6
 * Python
+    - [1_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210306/1_lists.py)
+    - [2_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210403/2_lists.py)
 
 ---
 ## 3/6/2021 9:15 Class Six
