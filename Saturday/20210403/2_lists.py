@@ -60,6 +60,17 @@ deleted = thislist.pop()
 print(thislist)
 print(deleted)
 
+thislist = []
+# last = thislist.pop() # error happen
+# if a list is empty or not
+if thislist:    
+    print('list not empty')
+    thislist.pop()
+else:
+    print('list is empty')
+
+
+
 # # del
 thislist = ["apple", "banana", "cherry"]
 del thislist[0]
