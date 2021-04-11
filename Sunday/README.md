@@ -16,6 +16,12 @@ Passcode: 2ycEwZ
 - Teacher sign-in: https://www.cognitoforms.com/MICS3/TeacherSignin
 - Teachable machine: https://teachablemachine.withgoogle.com/train
 
+### Class 4/11/2021
+Topic - Understand DEFI
+
+- https://www.youtube.com/watch?v=qFBYB4W2tqU
+
+
 ### Class 5 2/28/2021
 Sharing
 - From Artificial Intelligence to Superintelligence: Nick Bostrom on AI & The Future of Humanity https://www.youtube.com/watch?v=Kktn6BPg1sI
