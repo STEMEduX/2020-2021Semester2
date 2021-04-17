@@ -18,7 +18,10 @@ Passcode: 2ycEwZ
 ## 4/17/2021 9:15 Class Nine
 * Sentiment Analysis & NLP Unit 3 Lesson 7 - 13
 * Python
-    
+
+* Homework: 
+  - Write a program that keeps asking the user to guess a number between 1 and 100 until the guess is correct. 
+  - Extension: tell your players if their guess is too big or small
 ---
 ## 4/10/2021 9:15 Class Eight
 * Sentiment Analysis & NLP Unit 3 Lesson 6
