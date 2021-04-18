@@ -16,6 +16,13 @@ Passcode: 2ycEwZ
 - Teacher sign-in: https://www.cognitoforms.com/MICS3/TeacherSignin
 - Teachable machine: https://teachablemachine.withgoogle.com/train
 
+### Class 4/18/2021
+Links for Phaser Dev
+- https://www.youtube.com/watch?v=88DS3Z8nOdY
+- http://labs.phaser.io/edit.html?src=src\depth%20sorting\isometric%20map.js
+
+
+
 ### Class 4/11/2021
 Topic - Understand DEFI
 
