@@ -18,10 +18,14 @@ Passcode: 2ycEwZ
 ## 4/17/2021 9:15 Class Nine
 * Sentiment Analysis & NLP Unit 3 Lesson 7 - 13
 * Python
-
+    - [5_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/5_lists.py)
+    - [6_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/6_lists.py)
+    - [7_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/7_lists.py)
+    
 * Homework: 
   - Write a program that keeps asking the user to guess a number between 1 and 100 until the guess is correct. 
   - Extension: tell your players if their guess is too big or small
+  - Python: List exercises: https://www.w3schools.com/python/python_lists_exercises.asp
 ---
 ## 4/10/2021 9:15 Class Eight
 * Sentiment Analysis & NLP Unit 3 Lesson 6

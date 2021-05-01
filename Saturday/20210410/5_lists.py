@@ -59,3 +59,22 @@ print(thislist)
 thislist = [2, 1, 8, 9, 7]
 thislist.reverse()
 print(thislist)
+
+# elelemt should be comparable
+# string vs string, python know to compare it
+# int, int
+# string, int, error, python does not know how to compare.
+thislist = ['a', 'abc', 1, 2, 'xyz', 3, 'kkkk', 10000, '0abc', 9900]
+# thislist.sort() # error out.
+def my_compare_func(n): # input -> str
+  return str(n)
+thislist.sort(key=my_compare_func)
+print(thislist) 
+
+# '1', '10000'. '2'
+# '1000' vs '1' 49 == 49, nothing < 48   
+# '1' , '2'=> 49 < 50
+# '10000', '2' 49 < 50 compare first 
+# # 'a', 'b' => ascii code
+# '10000' vs 'xyz' => 49 < 120
+# 'a' vs 'A' => 97 > 65 'A', 'a'
