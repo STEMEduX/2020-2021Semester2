@@ -16,6 +16,16 @@ Passcode: 2ycEwZ
 -->
 ---
 ## 4/17/2021 9:15 Class Nine
+* Python
+    - [1_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/1_sets.py)
+    - [2_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/2_sets.py)
+    - [3_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/3_sets.py)
+    - [4_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/4_sets.py)
+    - [5_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/5_sets.py)
+    - [6_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/6_sets.py)
+
+---
+## 4/17/2021 9:15 Class Nine
 * Sentiment Analysis & NLP Unit 3 Lesson 7 - 13
 * Python
     - [5_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/5_lists.py)
