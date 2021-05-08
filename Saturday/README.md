@@ -14,8 +14,12 @@ Passcode: 2ycEwZ
 ## Join Wechat group
 ![image](https://user-images.githubusercontent.com/24532787/92997150-b8461200-f4d6-11ea-84cf-ab2c029c06cf.png)
 -->
+## 5/8/2021 9:15 Class Eleven
+* Sentiment Analysis & NLP 
+* Python
+    
 ---
-## 4/17/2021 9:15 Class Nine
+## 5/1/2021 9:15 Class Ten
 * Python
     - [1_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/1_sets.py)
     - [2_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/2_sets.py)
