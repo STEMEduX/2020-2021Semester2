@@ -15,7 +15,7 @@ Passcode: 2ycEwZ
 ![image](https://user-images.githubusercontent.com/24532787/92997150-b8461200-f4d6-11ea-84cf-ab2c029c06cf.png)
 -->
 ## 5/8/2021 9:15 Class Eleven
-* Sentiment Analysis & NLP 
+* Sentiment Analysis & NLP Unit 4
 * Python
     
 ---
