@@ -17,16 +17,25 @@ Passcode: 2ycEwZ
 ## 5/8/2021 9:15 Class Eleven
 * Sentiment Analysis & NLP Unit 4
 * Python
-    
+    - [1_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210430/1_sets.py)
+    - [2_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210430/2_sets.py)
+    - [3_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210430/3_sets.py)
+    - [4_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210430/4_sets.py)
+    - [5_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210430/5_sets.py)
+    - [6_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210430/6_sets.py)
 ---
 ## 5/1/2021 9:15 Class Ten
 * Python
-    - [1_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/1_sets.py)
-    - [2_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/2_sets.py)
-    - [3_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/3_sets.py)
-    - [4_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/4_sets.py)
-    - [5_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/5_sets.py)
-    - [6_sets.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/6_sets.py)
+    - [6_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/6_lists.py)
+    - [7_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/7_lists.py)
+    - [8_lists.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210410/8_lists.py)
+    - [1_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/1_tuple.py)
+    - [2_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/2_tuple.py)
+    - [3_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/3_tuple.py)
+    - [4_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/4_tuple.py)
+    - [5_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/5_tuple.py)
+    - [6_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/6_tuple.py)
+    - [7_tuple.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210417/7_tuple.py)
 
 ---
 ## 4/17/2021 9:15 Class Nine
