@@ -17,7 +17,16 @@ Passcode: 2ycEwZ
 ## 5/15/2021 9:15 Class Twelve
 * Sentiment Analysis & NLP Final project
 * Python
+    - [1_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/1_dic.py)
+    - [2_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/2_dic.py)
+    - [3_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/3_dic.py)
+    - [4_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/4_dic.py)
+    - [5_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/5_dic.py)
+    - [6_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/6_dic.py)
+    - [7_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/7_dic.py)
+    - [8_dic.py](https://github.com/STEMEduX/2020-2021Semester2/blob/main/Saturday/20210515/8_dic.py)
     
+
 ---
 ## 5/8/2021 9:15 Class Eleven
 * Sentiment Analysis & NLP Unit 4
